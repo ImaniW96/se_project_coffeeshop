@@ -81,7 +81,7 @@
 }
 .recipes__videos {
   display: flex;
-  gap: 100px;
+  gap: 40px;
   justify-content: center;
   color: #fff;
 }
