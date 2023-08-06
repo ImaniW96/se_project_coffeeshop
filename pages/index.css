@@ -19,10 +19,11 @@
   background-size: cover;
 }
 .header__image {
+  width: 646px;
+  height: 568px;
   position: absolute;
-  max-width: 636px;
-  top: 135px;
-  right: 20px;
+  top: 124px;
+  right: 5px;
 }
 
 .nav {
@@ -92,4 +93,7 @@
   display: flex;
   justify-content: space-between;
   color: #fff;
+}
+.frameborder {
+  border: 0;
 }
