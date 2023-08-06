@@ -70,11 +70,11 @@
 }
 .header__paragraph {
   margin: 0;
+  color: #6f6f6f;
 }
 .recipes {
   padding: 100px 80px 215px;
   background-color: #0a2750;
-  position: center;
   color: #fff;
   font-size: 44px;
   line-height: 52px;
