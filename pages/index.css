@@ -245,9 +245,8 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 660px;
-  margin-top: 119px;
+  margin-top: 0;
   margin-bottom: 173px;
-  gap: 20px;
 }
 .about__paragraph:last-child {
   margin-bottom: 0;
@@ -281,8 +280,8 @@
 }
 
 .footer__logo {
-  height: 105px;
-  width: 39px;
+  height: 39px;
+  width: 105px;
 }
 
 .footer__list {
