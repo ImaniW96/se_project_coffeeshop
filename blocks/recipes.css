@@ -1,0 +1,21 @@
+@import url(pages/index.css);
+.recipes {
+  padding: 100px 80px 215px;
+  background-color: #0a2750;
+  color: #fff;
+  font-size: 44px;
+  line-height: 52px;
+  background-image: url(../images/background_recipes.svg);
+  background-size: cover;
+}
+.recipes__videos {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  color: #fff;
+}
+.recipes__video-caption {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
