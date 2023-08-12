@@ -1,4 +1,4 @@
-@import url(vendor/normalized.css);
+@import url(vendor/normalize.css);
 @keyframes pulsate {
   0% {
     opacity: 0;
