@@ -10,7 +10,7 @@
   background-size: cover;
 }
 .header__image {
-  width: 646px;
+  max-width: 646px;
   height: 568px;
   position: absolute;
   top: 124px;
@@ -39,6 +39,7 @@
   display: flex;
   justify-content: space-between;
   margin-top: auto;
+  color: #6f6f6f;
 }
 .header__paragraph {
   margin: 0;
