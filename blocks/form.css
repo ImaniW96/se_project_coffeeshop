@@ -43,4 +43,6 @@
   background-color: #2f80ed;
   border: none;
   color: #ffff;
+  opacity: 1;
+  transition: opacity 0.7s ease;
 }

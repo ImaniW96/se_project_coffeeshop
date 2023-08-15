@@ -24,24 +24,30 @@
   margin: 183px 0 0;
   letter-spacing: -0.6px;
   font-weight: 500;
+  font-family: "Inter", Arial, sans-serif;
 }
 .header__description {
   max-width: 683px;
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
+  font-family: "Noto Serif", Times New Roman, serif;
 }
 .header__span-accent {
   color: #2f80ed;
   display: block;
+  font-family: "Noto Serif", Times New Roman, serif;
+  font-style: italic;
 }
 .header__footer {
   display: flex;
   justify-content: space-between;
   margin-top: auto;
   color: #6f6f6f;
+  margin-bottom: 0;
 }
 .header__paragraph {
   margin: 0;
   color: #6f6f6f;
+  font-family: "Inter", Arial, sans-serif;
 }
