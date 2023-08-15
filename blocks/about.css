@@ -29,6 +29,7 @@
   font-weight: 500;
   z-index: 1;
   max-width: 251px;
+  font-family: "Inter", Arial, sans-serif;
 }
 
 .about__content {
@@ -41,6 +42,7 @@
 }
 .about__paragraph {
   margin: 0 0 28px;
+  font-family: "Noto Serif", Times New Roman, serif;
 }
 .about__paragraph:last-child {
   margin-bottom: 0;
