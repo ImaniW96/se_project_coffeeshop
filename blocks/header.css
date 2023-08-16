@@ -8,6 +8,7 @@
   background-image: url(../images/background_header.svg);
   position: relative;
   background-size: cover;
+  background-position: center;
 }
 .header__image {
   max-width: 646px;
@@ -31,12 +32,12 @@
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
-  font-family: "Noto Serif", Times New Roman, serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
 }
 .header__span-accent {
   color: #2f80ed;
   display: block;
-  font-family: "Noto Serif", Times New Roman, serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
 }
 .header__footer {
