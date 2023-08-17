@@ -46,6 +46,7 @@
   line-height: 20px;
   text-decoration: none;
   align-items: center;
+  transition: all 1s ease-out;
 }
 
 .footer__column-link:hover {
