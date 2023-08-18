@@ -48,6 +48,8 @@
   color: #6f6f6f;
   margin-bottom: 0;
   font-family: "Inter", Arial, sans-serif;
+  font-family: normal;
+  font-weight: 500;
 }
 .header__paragraph {
   margin: 0;

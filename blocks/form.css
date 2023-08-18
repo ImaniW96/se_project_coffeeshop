@@ -34,6 +34,8 @@
   height: 60px;
   padding: 20px;
   font-family: "Inter", Arial, sans-serif;
+  border-radius: 2px;
+  border: #838383;
 }
 .form__button {
   width: 100%;
@@ -49,4 +51,8 @@
   opacity: 1;
   transition: opacity 0.7s ease;
   font-family: "Inter", Arial, sans-serif;
+  border-radius: 4px;
+}
+.form__button:hover {
+  color: #2f80ed;
 }

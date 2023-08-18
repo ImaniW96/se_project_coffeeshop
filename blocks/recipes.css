@@ -28,9 +28,12 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+  margin: 0 0 0;
 }
-.recipes__iframes {
+.recipes__iframe {
   border: none;
+  width: 480px;
+  height: 273px;
 }
 .recipes__subtitle {
   font-family: "Noto Serif", "Times New Roman", serif;
