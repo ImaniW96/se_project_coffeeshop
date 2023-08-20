@@ -17,9 +17,6 @@
 .form__label_type_checkbox {
   display: flex;
   justify-content: center;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
   gap: 12px;
 }
 .form__input {
@@ -34,7 +31,7 @@
   padding: 20px;
   font-family: "Inter", Arial, sans-serif;
   border-radius: 2px;
-  border: #838383;
+  border: 1px solid #838383;
 }
 .form__button {
   width: 100%;
@@ -48,10 +45,10 @@
   border: none;
   color: #ffff;
   opacity: 1;
-  transition: opacity 0.7s ease;
+  transition: opacity 0.5s ease-in-out;
   font-family: "Inter", Arial, sans-serif;
   border-radius: 4px;
 }
 .form__button:hover {
-  color: #2f80ed;
+  opacity: 0.7;
 }

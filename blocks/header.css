@@ -50,7 +50,7 @@
   font-family: "Inter", Arial, sans-serif;
   font-family: normal;
   font-weight: 500;
-  align-items: center;
+  align-items: self-end;
 }
 .header__paragraph {
   margin: 0;
